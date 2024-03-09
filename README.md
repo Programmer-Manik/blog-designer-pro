@@ -1,4 +1,4 @@
-# Blogiz-Starter-Pack
+# blog-designer-pro
 
 ## Installation:
 
