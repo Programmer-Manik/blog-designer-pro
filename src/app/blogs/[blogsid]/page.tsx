@@ -23,6 +23,7 @@ const BlogsDetailsPage = async ({ params }: blogId) => {
   const blog = await res.json();
   // console.log(blog)
 
+
   return (
     <div className="my-7">
       <BlogDetails blog={blog} />
